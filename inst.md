@@ -7,4 +7,4 @@
 * git diff - показывает изменения
 * git log - показывает историю 
 * git checkout - дает посмотреть версию (*master* - рабочая)
-* git 
+* git status - 
