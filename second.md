@@ -4,5 +4,5 @@ x=5
 
 print(x)
 
-i am old and want more time
+info
 
