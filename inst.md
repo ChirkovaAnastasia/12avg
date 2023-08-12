@@ -12,3 +12,5 @@
 * git commit -am - сразу добавляет файлы и комитит (обязательный комментарий)
 
     ![](https://cdn.fishki.net/upload/users/2021/05/19/1146241/cbf10854147c56587e94b1c85a6f7ef9.gif)
+
+  from github with love
